@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Learn Math Fun</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">Learn Math Fun</string>
+</resources>
